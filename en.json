@@ -1131,7 +1131,6 @@
     "block-moldrack-*": "รางเก็บแม่พิมพ์",
     "block-handbooktext-moldrack-*": "ใช้สำหรับเก็บของทรงแบนขนาดใหญ่ได้ เช่นแม่พิมพ์หรือโล่",
     "block-handbooktitle-torch-up": "Uses:",
-    "block-handbooktext-torch-up": "In addition to illuminating the environment, a torch can be used to light a <a href=\"handbook://block-firepit-lit\">firepit</a> or <a href=\"handbook://craftinginfo-charcoalburning\">charcoal pit</a>, re-light an <a href=\"handbook://block-torch-basic-extinct-up\">extinguished torch</a>, and ignite many other things such as <a href=\"handbook://block-bloomerybase-north\">bloomery</a>.",
     "block-handbooktext-torch-up": "นอกจากแค่ไว้สร้างความสว่างแล้วให้พื้นที่รอบข้างแล้ว ยังจุด<a href=\"handbook://block-firepit-lit\">กองไฟ</a>และ<a href=\"handbook://craftinginfo-charcoalburning\">กองไฟเผาถ่าน</a>ได้อีก หรือจุด<a href=\"handbook://block-torch-basic-extinct-up\">คบเพลิงไฟดับ</a>และยังใช้จุดไฟได้หลายอย่างเช่น จุด<a href=\"handbook://block-bloomerybase-north\">เตาถลุง</a>.",
     "block-woodbucket": "ถังไม้",
     "block-workbench-*": "โต๊ะทำงาน",
