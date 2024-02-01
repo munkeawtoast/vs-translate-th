@@ -32,17 +32,13 @@ Object.entries(readResult).forEach(([key, translations]) => {
 })
 
 if (bad) {
-  console.error('Halting! because bad translation')
-  return
+    console.error("Halting! because bad translation")
+} else {
+    Object.entries(readResult).forEach(([key, translations]) => {
+        translationFile[key] = translations[0]["translation"]
+    })
+
+    fs.writeFileSync("./en.json", JSON.stringify(translationFile, null, 4))
+
+    console.log("Applied translation successfully")
 }
-
-Object.entries(readResult).forEach(([key, translations]) => {
-  translationFile[key] = translations[0]['translation']
-})
-
-
-fs.writeFileSync('./en.json')
-
-
-
-
