@@ -15,7 +15,16 @@
 - [another plastic water pipes joint naming references](https://www.torpvc.com/pvc-fittings)
 - [metal joints store for reference](https://www.thaiwatsadu.com/th/category/ข้อต่อเหล็ก-540407)
   
-### armors
+### Armors
 - [lamellar, chainmail discussion](https://topicstock.pantip.com/wahkor/topicstock/2010/11/X9931685/X9931685.html)
 - [lamellar translation discussion](https://pantip.com/topic/42487349)
 - [chinese armor wikipedia](https://en.wikipedia.org/wiki/Chinese_armour)
+
+### Alcohol beverages
+- [Mead info](https://www.foodnetworksolution.com/wiki/word/4255/mead)
+
+### Bamboo
+- [bamboo segments(culms) = ลำไผ่](https://www.bamboofarm.org/about-bamboo/)
+
+### Goat
+- [แพะ](https://pasusat.com/แพะ/)
