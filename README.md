@@ -27,4 +27,7 @@
 - [bamboo segments(culms) = ลำไผ่](https://www.bamboofarm.org/about-bamboo/)
 
 ### Goat
-- [แพะ](https://pasusat.com/แพะ/)
+- [goats](https://pasusat.com/แพะ/)
+
+### Cheesemaking
+- [cottage cheese making in thai](https://krua.co/cooking_post/homemadecottagecheese)
