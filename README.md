@@ -10,11 +10,13 @@
 - [thaibutterflies.com](https://thaibutterflies.com/)
 - [thaibutterflies.com checklist](https://thaibutterflies.com/checklist/)
 
-### Chutes
+### Chutes & Mechanical
 - [plastic water pipes joint naming references](https://buildmate.co.th/blog/pvc-joints/)
 - [another plastic water pipes joint naming references](https://www.torpvc.com/pvc-fittings)
 - [metal joints store for reference](https://www.thaiwatsadu.com/th/category/ข้อต่อเหล็ก-540407)
-  
+- [Archemedes' Screw translation](https://dict.longdo.com/search/Archimedes%20screw)
+- [Gears](https://www.kacha.co.th/articles/%E0%B9%80%E0%B8%9F%E0%B8%B7%E0%B8%AD%E0%B8%87/)
+
 ### Armors
 - [lamellar, chainmail discussion](https://topicstock.pantip.com/wahkor/topicstock/2010/11/X9931685/X9931685.html)
 - [lamellar translation discussion](https://pantip.com/topic/42487349)
@@ -23,13 +25,17 @@
 ### Alcohol beverages
 - [Mead info](https://www.foodnetworksolution.com/wiki/word/4255/mead)
 
-### Bamboo
+### Plants
 - [bamboo segments(culms) = ลำไผ่](https://www.bamboofarm.org/about-bamboo/)
+- [reeds vs rush](https://thecontentauthority.com/blog/reed-vs-rush)
+- in search for thai name for tules conclusion: theres none so transliteration it is
 
-### Goat
+### Animals
 - [goats](https://pasusat.com/แพะ/)
+- [Thai dear names](https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A7%E0%B8%B2%E0%B8%87)
 
-### Cheesemaking
+### Food
+- literally cannot find piemaking with making the outer layer without a mold so กรอบพาย it goes
 - [cottage cheese making in thai](https://krua.co/cooking_post/homemadecottagecheese)
 
 ### Welding & Soldering
@@ -42,8 +48,5 @@
 - [modern day metal casting post](https://ifoundryman.com/metal-casting/)
 - [holy shit metallurgy website in thai after 1 whole day of finding only modern stuff tho](https://ifoundryman.com/)
 
-### Mechanical
-- [Archemedes' Screw translation](https://dict.longdo.com/search/Archimedes%20screw)
-
-### Gears
-- [Gears](https://www.kacha.co.th/articles/%E0%B9%80%E0%B8%9F%E0%B8%B7%E0%B8%AD%E0%B8%87/)
+### Buildings
+- [Roofings namings](https://www.onestockhome.com/th/homemap_contents/36645773/roof-accessories)
