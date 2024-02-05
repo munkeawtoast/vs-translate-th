@@ -9,7 +9,7 @@
 - [dnp.go.th](https://www.dnp.go.th/foremic/entomology/Web/Butterfly/pier_web/Ixias.htm)
 - [thaibutterflies.com](https://thaibutterflies.com/)
 - [thaibutterflies.com checklist](https://thaibutterflies.com/checklist/)
-- 
+
 ### Chutes
 - [plastic water pipes joint naming references](https://buildmate.co.th/blog/pvc-joints/)
 - [another plastic water pipes joint naming references](https://www.torpvc.com/pvc-fittings)
@@ -31,3 +31,19 @@
 
 ### Cheesemaking
 - [cottage cheese making in thai](https://krua.co/cooking_post/homemadecottagecheese)
+
+### Welding & Soldering
+- [welding alloy](https://www.misterworker.com/th/stella-welding-alloys/soft-soldering-brazing-alloys/3476)
+- In thai we just call solder wires "ตะกั่วบัดกรี" (lit. solder lead) you can check [this shop](https://shopee.co.th/%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9A%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B5-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B9%88%E0%B8%A7-(99.3-0.7)-%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%A1%E0%B8%B5%E0%B8%9F%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7-Lead-Free-Solder-Wire-i.8895748.21304973441) out. they're literally selling leadless lead solder wire ![leadless lead solder image](images/leadless-lead-solder.png) how am i supposed to name silver solder help
+
+### Metallurgy
+- [recycling research center metallurgy technical words](http://www5.dpim.go.th/service7_1/)
+- [villages does metallurgy blogpost](https://today.line.me/th/v2/article/WBnRxzR)
+- [modern day metal casting post](https://ifoundryman.com/metal-casting/)
+- [holy shit metallurgy website in thai after 1 whole day of finding only modern stuff tho](https://ifoundryman.com/)
+
+### Mechanical
+- [Archemedes' Screw translation](https://dict.longdo.com/search/Archimedes%20screw)
+
+### Gears
+- [Gears](https://www.kacha.co.th/articles/%E0%B9%80%E0%B8%9F%E0%B8%B7%E0%B8%AD%E0%B8%87/)
