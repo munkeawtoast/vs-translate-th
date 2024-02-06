@@ -25,6 +25,10 @@
 ### Alcohol beverages
 - [Mead info](https://www.foodnetworksolution.com/wiki/word/4255/mead)
 
+### History & Culture
+- [Mianguan](https://pantip.com/topic/36326124)
+- [Gunpai](https://pantip.com/topic/39437331) just needed confirmation :)
+
 ### Plants
 - [bamboo segments(culms) = ลำไผ่](https://www.bamboofarm.org/about-bamboo/)
 - [reeds vs rush](https://thecontentauthority.com/blog/reed-vs-rush)
