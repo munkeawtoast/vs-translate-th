@@ -7,21 +7,21 @@ const translationFile = require("./en.json")
 let bad = false
 
 const mdTranslationFiles = fs
-    .readdirSync("./translation/md/")
-    .filter((file) => file.endsWith(".md"))
+  .readdirSync("./translation/md/")
+  .filter((file) => file.endsWith(".md"))
 
 if (bad) {
-    console.error("Halting! bad translation")
+  console.error("Halting! bad translation")
 } else {
-    mdTranslationFiles.forEach((file) => {
-        const mdString = fs
-            .readFileSync(`./translation/md/${file}`, "utf-8")
-            .replace(/\n$/, "")
-        const key = file.split(".")[0]
-        translationFile[key] = mdString
-    })
+  mdTranslationFiles.forEach((file) => {
+    const mdString = fs
+      .readFileSync(`./translation/md/${file}`, "utf-8")
+      .replace(/\n$/, "")
+    const key = file.split(".")[0]
+    translationFile[key] = mdString
+  })
 
-    fs.writeFileSync("./en.json", JSON.stringify(translationFile, null, 4))
+  fs.writeFileSync("./en.json", JSON.stringify(translationFile, null, 4))
 
-    console.log("Applied translation successfully")
+  console.log("Applied translation successfully")
 }

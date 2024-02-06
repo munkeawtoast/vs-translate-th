@@ -3,9 +3,9 @@ type Translation = {
 }
 
 type TranslationFromFile = {
-  translation: Translation,
+  translation: Translation
   original: Translation
-   meta: {
+  meta: {
     file: string
-   }
+  }
 }

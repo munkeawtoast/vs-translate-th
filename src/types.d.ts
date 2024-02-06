@@ -1,9 +1,9 @@
 declare global {
-    namespace NodeJS {
-        interface ProcessEnv {
-            GOOGLE_GEN_AI_API_KEY: string
-        }
+  namespace NodeJS {
+    interface ProcessEnv {
+      GOOGLE_GEN_AI_API_KEY: string
     }
+  }
 }
 
 // If this file has no import/export statements (i.e. is a script)
