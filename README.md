@@ -1,8 +1,8 @@
 # References
 
-### Transliteration
-
-- [wikipedia en>th transliteration](https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%A8%E0%B8%B1%E0%B8%9E%E0%B8%97%E0%B9%8C)
+### Thai
+- [การใช้เครื่องหมายวรรคตอน](https://th.wikibooks.org/wiki/ภาษาไทย/ไวยากรณ์/การใช้เครื่องหมาย/การใช้เครื่องหมายวรรคตอน)
+- [wikipedia en>th transliteration](https://th.wikipedia.org/wiki/การทับศัพท์)
 
 ### Butterflies
 
