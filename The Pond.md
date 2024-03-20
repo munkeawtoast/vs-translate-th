@@ -104,31 +104,53 @@ The driver lowered his hood and I found myself staring as I recognized him. His 
 
 “We certainly weren’t expecting this weather today. Dแอปเปิ้ลs and I were just picking up some grain to bring to the mill.”
 
+“ไม่ได้คาดคิดไว้ว่าพายุจะมา แด็ปเปิลส์กับฉันแค่จะไปเก็บธัญพืชกลับไปโรงสี”
+
 “Are you... the miller?” I asked since I remember the miller in the neighboring village being much older.
+
+“คุณใช่... เจ้าของโรงสีใช่ไหม?” ฉันถาม เพราะฉันนึกหน้าเจ้าของโรงสีได้ แต่จำได้ว่าเขาแก่กว่านี้เยอะ
 
 “Not exactly. Or well. I work the mill now that my father passed. I am the miller's son.” He was quiet for a moment and fiddled with the reins. “I guess that makes me the miller now.” He looked at me with a sad smile.
 
-“I’m so sorry about your father.” I mumbled, looking at my hands.
+“ก็ไม่เชิง เอาแบบนี้ดีกว่า ผมทำงานอยู่โรงสีของคุณพ่อที่เสียไปแล้ว ผมคือลูกของเจ้าของโรงสี” เขาเงียบไปสักพักก่อนพร้อม  He was quiet for a moment and fiddled with the reins. “เพราะแบบนั้น ก็คงทำให้ผมเป็นเจ้าของโรงสีแล้ว” เขามองหน้าฉัน พร้อมกับหน้ายิ้มเศร้า ๆ
+
+“ฉันเสียใจเรื่องพ่อของคุณด้วย” ฉันพึมพำ พร้อมก้มมองมือของตัวเอง
 
 We sat in silence for a while, shoulder to shoulder, melting snow dripping from our cloaks and our breaths were smoking from the cold. I wanted to ask a thousand questions, but I couldn't bring myself to do it when I saw the hurt look in his eyes. But maybe that was exactly what I should have done.
 
+พวกเรานั่งเงียบ ๆ กันสักพัก shoulder to shoulder  หิมะบนชุดของเราละลายไหลลงตามผ้าคลุม ไอจากปากกระจายไปทั่วเกวียนจากความหนาวเหน็บ ฉันมีคำถามนับล้าน แต่ก็ไม่ก็กล้าเอ่ยปาก ตอนที่ฉันเห็นสายตาของเขาที่เจ็บปวด ฉันก็แน่ใจว่าฉันน่าจะตัดสินใจถูกแล้ว
+
 “Your father must have meant alot.”
 
+“พ่อของคุณน่าจะมีความหมายสำหรับคุณมาก”
+
 “He was a rough man as millers go, but he did have a good heart. I left my life as a brewer to come back to the mill when he got ill. The old man deserved no less.” The miller scoffed. “I do miss the brewing business though. It was a breath of new life from the slow, farming labors. But as long as I get to brew some of my special Miller’s Mead, all is well.”
+
+“He was a rough man as millers go, but he did have a good heart. ผมทิ้งชีวิตxxxและกลับมาที่โรงสีตอนเขาป่วย   I left my life as a brewer to come back to the mill when he got ill. The old man deserved no less.” The miller scoffed. “แต่ผมก็คิดถึงตอนที่ผมหมักเบียร์  I do miss the brewing business though. It was a breath of new life from the slow, farming labors. But as long as I get to brew some of my special Miller’s Mead, all is well.”
 
 He smiled slightly, then he caught sight of the acorn necklace hanging around my neck.___NEWPAGE___
 
 “That necklace...” He paused.
 
+“สร้อยเส้นนั้น...” เขาชะงัก
+
 When I realized, my cheeks blushed and I cursed myself that I still had it, although now I am very glad I kept it. I stammered: “I...I found it by…”
 
-“The ponds in the forest.” He said slowly and looked curiously at me.
+พอฉันรู้ตัว my cheeks blushed และฉันด่าตัวเองในใจว่าทำไมไม่ถอดออก ถึงจะเป็นอย่างนั้นฉันก็ดีใจที่เก็บมันไว้ ฉันพูดไปอย่างตะกุกตะกัก “ฉะ...ฉันเจอมันที่…”
+
+“ข้างบ่อน้ำกลางป่า” เขาพูดช้า ๆ พร้อมมองหน้าฉันด้วยความสงสัย He said slowly and looked curiously at me.
 
 “I actually saw you there.” I quickly confessed. “And I...” I started fiddling with the knot of the necklace.
 
+“จริง ๆ แล้ว ฉันเห็นคุณที่นั่น” ฉันรีบสารภาพ “แล้วก็...” ระหว่างนั้นฉันก็เริ่มแกะปมของสร้อยคอ I started fiddling with the knot of the necklace.
+
 He put up his hand in the อากาศ to stop me before I could take it off.
 
+เขายกมือขึ้นเพื่อหยุดฉันก่อนที่ฉันจะถอดมันเสร็จ
+
 “Please, keep it.” He laughed heartily and gently pet Dแอปเปิ้ลs, who was standing half asleep. “Now, where to? Let me drive you. The storm doesn’t seem to be letting up.” He backed up his horse and hopped out of the wagon.
+
+“คุณเก็บไว้เถอะ” เขาหัวเราะไปพร้อมลูบแด็ปเปิลส์ที่กำลังยืนกึ่งหลับกึ่งตื่น “แล้ว นี่เธอจะไปไหนล่ะ? พายุดูเหมือนจะไม่สงบลงเลย” “เขาลงจากเกวียน He backed up his horse and hopped out of the wagon.
 
 “That’s very kind. But I need to bring the firewood home.” I excused myself.
 

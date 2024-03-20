@@ -67,3 +67,6 @@
 ### Buildings
 
 - [Roofings namings](https://www.onestockhome.com/th/homemap_contents/36645773/roof-accessories)
+
+### Stones & Stonelikes
+- [quartz colors](https://www.dmr.go.th/quartz/)
